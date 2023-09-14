@@ -6,6 +6,8 @@
 
 Ce projet a été développé dans le cadre d'un brief visant à appliquer le Transfer Learning sur une base de données pour identifier si une personne porte un masque ou non. Le projet utilise un apprentissage supervisé et repose sur l'utilisation de la bibliothèque Keras et le modèle VGG16.
 
+![image](https://github.com/ggwendall/ggwendall/assets/48108275/edb15cbf-f45a-472c-b934-44762886a231)
+
 ## Objectif du Projet
 
 L'objectif principal de ce projet est de développer un modèle de détection de masques en utilisant l'apprentissage supervisé et le Transfer Learning avec le modèle VGG16. Le modèle doit être capable de déterminer si une personne porte un masque ou non à partir d'images capturées soit à partir d'un ensemble de données, soit en temps réel depuis une webcam.
