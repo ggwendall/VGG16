@@ -1,4 +1,4 @@
-
+![banner2](https://github.com/ggwendall/VGG16/assets/48108275/66f8e49b-da17-4cbe-a289-2860545c545c)
 
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/edb15cbf-f45a-472c-b934-44762886a231)
 
